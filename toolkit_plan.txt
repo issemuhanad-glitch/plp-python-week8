@@ -1,0 +1,47 @@
+
+WEEK 8 FINAL PROJECT: PERSONAL MINI-TOOLKIT
+
+1. MY THREE TOOLS
+
+Tool 1: Simple Calculator
+Description: This tool allows users to add, subtract, multiply and divide two numbers.
+Concepts: Variables, input, float, conditionals, and f-strings.
+
+Tool 2: To-Do List
+Description: This tool allows users to add tasks, view their tasks, and remove completed tasks.
+Concepts: Lists, loops, conditionals, input, and f-strings.
+
+Tool 3: Multiplication Table
+Description: This tool asks the user for a number and displays its multiplication table from 1 to 10.
+Concepts: For loops, variables, input, and f-strings.
+
+2. EXACT MENU TEXT
+
+===== MY PERSONAL MINI-TOOLKIT =====
+Welcome! Choose a tool:
+
+1. Simple Calculator
+2. To-Do List
+3. Multiplication Table
+4. Quit
+
+Enter your choice (1-4):
+
+3. PYTHON CONCEPTS
+
+Simple Calculator:
+- Variables
+- User input
+- Conditionals
+- F-strings
+
+To-Do List:
+- Lists
+- Loops
+- Append and remove
+- Conditionals
+
+Multiplication Table:
+- For loop
+- Variables
+- F-strings
