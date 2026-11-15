@@ -14,6 +14,9 @@ while True:
 
     choice = input("Enter your choice (1-4): ")
 
+# Tool 1: This calculator allows users to add, subtract,
+# multiply, and divide two numbers.
+
     if choice == "1":
         # Tool 1: Simple Calculator
         print("\n--- Simple Calculator ---")
@@ -53,6 +56,9 @@ while True:
 
         except ValueError:
             print("Please enter valid numbers.")
+
+# Tool 2: This tool allows users to add, view, and remove
+# tasks from a to-do list using a Python list.
 
     elif choice == "2":
         # Tool 2: To-Do List
@@ -104,6 +110,9 @@ while True:
 
             else:
                 print("Invalid choice. Please try again.")
+
+# Tool 3: This tool displays the multiplication table
+# of a number entered by the user using a for loop.
 
     elif choice == "3":
         # Tool 3: Multiplication Table
